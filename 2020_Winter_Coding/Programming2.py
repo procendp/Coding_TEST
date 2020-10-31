@@ -3,4 +3,4 @@ def solution(encrypted_text, key, rotation):
 
     return answer
 
-print(solution("qyyigoptvfb", "abcdefghijk", 3, "hellopython"))
+print(solution("qyyigoptvfb", "abcdefghijk", 3)) # "hellopython"
